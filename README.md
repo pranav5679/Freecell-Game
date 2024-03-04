@@ -1,3 +1,5 @@
+Project completed at Northeastern University
+
 An Adaptation of freecell solitaire in java that allows single-move games as well as multiple moves at once (this is what you're used to if you've ever played solitaire, software or otherwise).
 
 The primary gameplay loop is as follows: the user observes the game state, decides upon a potential move, and then provides some input. Valid input is of the form [Source Pile] [Card Index] [Destination Pile]
