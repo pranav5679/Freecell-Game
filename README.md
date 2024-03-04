@@ -1,4 +1,4 @@
-Project completed at Northeastern University
+Project completed at Northeastern University:
 
 An Adaptation of freecell solitaire in java that allows single-move games as well as multiple moves at once (this is what you're used to if you've ever played solitaire, software or otherwise).
 
